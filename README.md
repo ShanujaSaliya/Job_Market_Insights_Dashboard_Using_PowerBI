@@ -4,7 +4,24 @@
 
 This Power BI project analyzes current job market demand by examining job postings, required skills, experience levels, and trending job roles. The goal is to help job seekers and employers understand which skills are most in-demand, how job roles are evolving, and what experience levels companies prefer.
 
-The dashboard provides a **data-driven view** of the job landscape using interactive visuals, filters, and dynamic KPIs.
+The dashboard provides a data-driven view of the job landscape using interactive visuals, filters, and dynamic KPIs and also interactive features like page navigation buttons for smooth movement between report pages .Back button added for easy return to previous pages and better user experience.
+
+
+## Dataset
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/datasets/adityarajsrv/job-descriptions-2025-tech-and-non-tech-roles)
+
+Main Page :
+
+![image Alt](https://github.com/ShanujaSaliya/Job_Market_Insights_Dashboard_Using_PowerBI/blob/32d2e319ec7d5ff1a31e166cfaaa7e5ee236c2c1/Main%20Page.png)
+
+
+Dashboard :
+
+![image Alt](https://github.com/ShanujaSaliya/Job_Market_Insights_Dashboard_Using_PowerBI/blob/32d2e319ec7d5ff1a31e166cfaaa7e5ee236c2c1/Dashboard.png)
+
+IT & Non IT Section :
+
+![image Alt](https://github.com/ShanujaSaliya/Job_Market_Insights_Dashboard_Using_PowerBI/blob/32d2e319ec7d5ff1a31e166cfaaa7e5ee236c2c1/IT%20%26%20Non%20IT.png)
 
 ---
 
